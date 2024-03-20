@@ -1,4 +1,4 @@
-### Hi there 👋
+### Projeto Basico de um Sistema de loja 👋
 
 <!--
 **RockNicolas/rocknicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
